@@ -1,0 +1,380 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: FTtf94hap7H/6ayQ7gfbkKuNHr8=
+Created-By: 1.6.0_20 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: Yov0Aq/tFrxcl6/kYAQ2uVARoSE=
+
+Name: com/neurotechnology/Templates/MinutiaType.class
+SHA1-Digest: XlaW5WkvBWtDji7juAgn/+5GevE=
+
+Name: com/neurotechnology/Templates/NFTemplate.class
+SHA1-Digest: rLqd7CIDuFmzHzpP7wGTWQySSAs=
+
+Name: com/neurotechnology/NMatcher/NEMatchDetails.class
+SHA1-Digest: juHifoaE3W6raxhsb5nmtU7ltkg=
+
+Name: com/neurotechnology/Communication/InsertDeleteTemplateResult.cla
+ ss
+SHA1-Digest: hursSDpSZoM2i46g+YZ7MFD36cI=
+
+Name: com/neurotechnology/Communication/InsertDeleteTemplateStatus$1.c
+ lass
+SHA1-Digest: VaFt+z/vPoG6algdLc5qD6SM7ZM=
+
+Name: com/neurotechnology/Library/LibraryInfo.txt
+SHA1-Digest: RIReVOdXqxiSIJ3ZnLmLI3+hPVY=
+
+Name: com/neurotechnology/FMCard/MinutiaOrder.class
+SHA1-Digest: Jbq0pD1Zpw+ABPGPw2BKHjQg1Os=
+
+Name: com/neurotechnology/Templates/Minutia.class
+SHA1-Digest: qijphGsD2uyRxgq2sC/mQHqQHpE=
+
+Name: com/neurotechnology/Eyes/SegmentationDetails.class
+SHA1-Digest: ckWZCVqbdbjcLkiRhOdY/dl9G9U=
+
+Name: com/neurotechnology/NFIQ/NFIQ.class
+SHA1-Digest: FSCnkPyAGcWbweK/Si1hQjposIU=
+
+Name: com/neurotechnology/Fingers/ReturnedImage.class
+SHA1-Digest: AnP4DsermHA8+Z9zuUHy2nrEeGc=
+
+Name: com/neurotechnology/Library/LibraryInfo.class
+SHA1-Digest: UtJ4PxCccgSdI1KikAp7WlVm1dk=
+
+Name: com/neurotechnology/Templates/NERecordInfo.class
+SHA1-Digest: SOofKd3iNyo/SLuzURUKnFLsGbU=
+
+Name: com/neurotechnology/Fingers/PatternClass.class
+SHA1-Digest: UfWX/tRLek4O4oOWoFdwfIGkgz8=
+
+Name: com/neurotechnology/Faces/Rotation.class
+SHA1-Digest: AqBXlGI3fxVgIzwkkF5cuWrezAI=
+
+Name: com/neurotechnology/Communication/Client.class
+SHA1-Digest: rgh2l08qKHHGhfHk/izthJ4uZ+E=
+
+Name: com/neurotechnology/NLicensing/LicensingConfig.class
+SHA1-Digest: MpT6sMIeCx1OSY2k40EPx5PxuKw=
+
+Name: com/neurotechnology/Communication/TaskResult.class
+SHA1-Digest: 7nTe9U8mKJwKHY87wUw1ZAhlYp0=
+
+Name: com/neurotechnology/Library/CmmLibLinux.xml
+SHA1-Digest: ETTEOSsM7h+n7JVoC3Z+Rtf0qz8=
+
+Name: com/neurotechnology/NMatcher/FingerMatchDetail.class
+SHA1-Digest: B2/iaQ7x5x3T8nZLO3gg+Cucr3s=
+
+Name: com/neurotechnology/Templates/NTemplate.class
+SHA1-Digest: jLgEB3mDbucJJua/LMDzCmWANXI=
+
+Name: com/neurotechnology/Fingers/ImpressionType.class
+SHA1-Digest: L1JUr6Efh2u9+WjJC1ndFYt2m30=
+
+Name: com/neurotechnology/NMatcher/MatcherMode.class
+SHA1-Digest: 3xqVHl8kN+F4nYDwQpBrfnmNqcE=
+
+Name: com/neurotechnology/Fingers/TemplateSize$1.class
+SHA1-Digest: gXrHAAEGPTARWd08XYpBSMLtTKo=
+
+Name: com/neurotechnology/Communication/TaskMode.class
+SHA1-Digest: 2umuH7eQSMTVdSEBY+vqKsckOrY=
+
+Name: com/neurotechnology/Fingers/TemplateSize.class
+SHA1-Digest: 25+QEsZSqlk4etMHBzx/nePykRg=
+
+Name: com/neurotechnology/Faces/ExtractionStatus.class
+SHA1-Digest: RJBGG9Vi22PZSAViGNDZ+wLJex4=
+
+Name: com/neurotechnology/Fingers/ReturnedImage$1.class
+SHA1-Digest: qay45HBo7fTuUqfP/u10r09L5cc=
+
+Name: com/neurotechnology/Communication/InsertDeleteResult.class
+SHA1-Digest: arWCqhiSwsMTRSvo39xGjLvsEjw=
+
+Name: com/neurotechnology/Gui/AboutBox$LibraryInfoModel.class
+SHA1-Digest: OT82E6QeNP8CmcQfZD+ZCNifWfA=
+
+Name: com/neurotechnology/ScannerMan/ScannerModule.class
+SHA1-Digest: GsfYM0W7VHCFB499uwDeO8Qw+D8=
+
+Name: com/neurotechnology/NImages/ImageFormat.class
+SHA1-Digest: wAcJrPZBGNc6NQEAgetpOK239BU=
+
+Name: com/neurotechnology/NImages/NImage.class
+SHA1-Digest: MwhnsN04lxflv2pN4z0+EW8yIvQ=
+
+Name: com/neurotechnology/Communication/InsertDeleteTemplateStatus.cla
+ ss
+SHA1-Digest: m8sbD8Ufmuoix8jkMYbh+DIehiQ=
+
+Name: com/neurotechnology/Library/NetInstall.class
+SHA1-Digest: 260P/6eh1+PivktfJuSrYU/s8Kk=
+
+Name: com/neurotechnology/Communication/Admin.class
+SHA1-Digest: qvKME+F74XWSZKUyNI5QMf4qpYU=
+
+Name: com/neurotechnology/Communication/TaskProgress.class
+SHA1-Digest: F7FUngdsWwqdvr8DMwUVvL2235I=
+
+Name: com/neurotechnology/NImages/PixelFormat.class
+SHA1-Digest: iaLfEWGF2bs5p5Fj8PScxMiqq08=
+
+Name: com/neurotechnology/Library/TemplateFileFilter.class
+SHA1-Digest: TnhcQ9dYj8JuQISj9szHACWjTzc=
+
+Name: com/neurotechnology/NMatcher/Speed.class
+SHA1-Digest: xoGNNro1oijy2HmqaFmTQqY2yTg=
+
+Name: com/neurotechnology/NLicensing/NLicenseInfo.class
+SHA1-Digest: z6ZRJkk9KkVstFMRheOqWdXUS0A=
+
+Name: com/neurotechnology/Faces/TemplateSize.class
+SHA1-Digest: LsGo+60K1Wm7U3wfaLB0yoo9reU=
+
+Name: com/neurotechnology/FMCard/FMCard.class
+SHA1-Digest: FbruwJmvrI2u+/meKLxjGcxZ5Js=
+
+Name: com/neurotechnology/NImages/NImage$1.class
+SHA1-Digest: IO2z9OTqj0aGvKIyDy7S0a5uFtk=
+
+Name: com/neurotechnology/Communication/InsertDeleteStatus$1.class
+SHA1-Digest: MRJkDZuQsRJqXEqfbUIY4e6R6AI=
+
+Name: com/neurotechnology/Templates/NRecord.class
+SHA1-Digest: 5MU5LTKyMIrD4lmhZffmmcFSpjA=
+
+Name: com/neurotechnology/Communication/TaskMode$1.class
+SHA1-Digest: LdhWMAcoTBqXiy/SCE7cyXIsank=
+
+Name: com/neurotechnology/Templates/MinutiaOrder.class
+SHA1-Digest: 42lxU9cCe+XAeQq05Wuycre8xh8=
+
+Name: com/neurotechnology/Eyes/NEExtractor.class
+SHA1-Digest: sDkJwl8TE5V5bQ+GfXzDmL0bKj4=
+
+Name: com/neurotechnology/Communication/ClusterShortInfo.class
+SHA1-Digest: 9trLPb1UwG/RxU2ME26lb/QVECA=
+
+Name: com/neurotechnology/Communication/NodeState$1.class
+SHA1-Digest: zfhzqaIpKnnUXdC/3hXxTqIGz1U=
+
+Name: com/neurotechnology/NMatcher/Speed$1.class
+SHA1-Digest: xMr3Lu041pFPERskicKXeJ9ouDQ=
+
+Name: com/neurotechnology/Communication/TaskParameter.class
+SHA1-Digest: beYxyTq4hnVKKQf/T+FPYUJM7FU=
+
+Name: com/neurotechnology/Templates/NLTemplate.class
+SHA1-Digest: bJi9PDOoKl3tPnbPiIE7RfBWxS8=
+
+Name: com/neurotechnology/CameraMan/VideoFormat.class
+SHA1-Digest: z4peUp/FyTEvPThS1QzCxmsMDIk=
+
+Name: com/neurotechnology/Templates/NLRecord.class
+SHA1-Digest: 4BtNSCZokIsm+y6BDEzeLCofts0=
+
+Name: com/neurotechnology/ScannerMan/ScannerMan.class
+SHA1-Digest: exGF8JlrGebjJkKWr40HuaguUUw=
+
+Name: com/neurotechnology/Library/NativeObject.class
+SHA1-Digest: RKn8Beoxu+7VrD6tdOjY2p6LaPQ=
+
+Name: com/neurotechnology/Templates/NEPosition$1.class
+SHA1-Digest: G3E3Z3FVj1O4KTIqgw5xQzwUppA=
+
+Name: com/neurotechnology/NMatcher/MatchDetails.class
+SHA1-Digest: dVzempXwV4c/0+GFtgiV8VlvT/8=
+
+Name: com/neurotechnology/NMatcher/NFMatchDetails.class
+SHA1-Digest: s9HlRPbTllpOhNi/ENdZdcTJG4k=
+
+Name: com/neurotechnology/ScannerMan/IsCapturingChanged.class
+SHA1-Digest: lkRb6X4NlwmuHIFnJ4Kd7xo/bbE=
+
+Name: com/neurotechnology/NMatcher/IndexPair.class
+SHA1-Digest: xuPA7XTD5hnxCQDmtx9axW53+Kc=
+
+Name: com/neurotechnology/Communication/Speed$1.class
+SHA1-Digest: gZEaO9pIEsmBTcXAE8GukCqdy3c=
+
+Name: com/neurotechnology/CameraMan/Camera.class
+SHA1-Digest: n9JTKjBVdwKvBGwJia2VRHKyS8Q=
+
+Name: com/neurotechnology/Templates/NERecord.class
+SHA1-Digest: LzquKEwHSY8u9IvoIj5zEFlkiQU=
+
+Name: com/neurotechnology/ScannerMan/Scanner.class
+SHA1-Digest: ywbHGiYjM9mSQhaPhji8XlgASqY=
+
+Name: com/neurotechnology/Templates/NETemplate.class
+SHA1-Digest: Th2y1Il6wJI7JTjUR/H8zC0Hy7s=
+
+Name: com/neurotechnology/NImages/PixelFormat$1.class
+SHA1-Digest: NGUjrix15y4k3s5wj0kd6CzmgCU=
+
+Name: com/neurotechnology/Fingers/RidgeCountsType.class
+SHA1-Digest: YFMveXCFq2t6u2F6HKr4hpjkGXI=
+
+Name: com/neurotechnology/Communication/Task.class
+SHA1-Digest: GRD97PYB2vQU/ba8AX/E0NmQq4Y=
+
+Name: com/neurotechnology/Library/NetInstall$Handler.class
+SHA1-Digest: AkG1VKJ0Gvj3dAvznOkSGLxCqRY=
+
+Name: img/NeurotecLogo.png
+SHA1-Digest: tKkAKSgOaDQQ9L05FxWrWC+XfcA=
+
+Name: com/neurotechnology/Faces/NLExtractor.class
+SHA1-Digest: MMA0cblK4YL4G0qC2eeILhX8HPs=
+
+Name: com/neurotechnology/Library/MainLibLinux.xml
+SHA1-Digest: 7BeFdPhYQ6HNI9IcRkNs9PEqDG0=
+
+Name: com/neurotechnology/Communication/ClusterResult.class
+SHA1-Digest: +32oKG4YOL4h5rYE2LUR70AAd8I=
+
+Name: com/neurotechnology/Gui/AboutBox.class
+SHA1-Digest: fnI9y7+MWkqRPw4KipeiZSYG5iY=
+
+Name: com/neurotechnology/Templates/DoubleCore.class
+SHA1-Digest: X+sioay+FVMG8BZRO2a52s1NrZQ=
+
+Name: com/neurotechnology/NFIQ/NFIQQuality.class
+SHA1-Digest: YqQkIxav5WXZvyXHWps/ehw8bHw=
+
+Name: com/neurotechnology/Faces/Mode.class
+SHA1-Digest: xsccp8GcO2mJlvFg2tIP+Bf/UGk=
+
+Name: com/neurotechnology/Library/CmmLibWindows.xml
+SHA1-Digest: V3iJGAi2Jnc07nI6O5VUDU5dcVA=
+
+Name: com/neurotechnology/Communication/ClusterNodeState.class
+SHA1-Digest: TCJ/CLyPV2X0qiWsyHJdsLywSOk=
+
+Name: com/neurotechnology/Communication/ClusterNodeInfo.class
+SHA1-Digest: fEmW99ANlJJuJModcAUDBBEiXRM=
+
+Name: com/neurotechnology/Communication/Speed.class
+SHA1-Digest: XFDWvSj57O3xybi1mtvbFHEjsEU=
+
+Name: com/neurotechnology/ScannerMan/FingerRemoved.class
+SHA1-Digest: 9gryvHo9sfLq63ddEi/SoQVP+Bg=
+
+Name: com/neurotechnology/ScannerMan/ScanManException.class
+SHA1-Digest: x6YtmBXAGQu8rUj2D0FfGbdTKRc=
+
+Name: com/neurotechnology/Fingers/NFExtractor.class
+SHA1-Digest: oDnplrlromVNklzUk3HNY3A8CNE=
+
+Name: com/neurotechnology/Communication/NodeState.class
+SHA1-Digest: 2nzHQ+53O37ufBDVVpq0Zufkfek=
+
+Name: com/neurotechnology/Library/CCIDL.class
+SHA1-Digest: FZyioaX78HGe38dvz1Z37S23yCU=
+
+Name: com/neurotechnology/Templates/NEPosition.class
+SHA1-Digest: ZTNcMJP1TMi7hBfGdrircnobhH4=
+
+Name: com/neurotechnology/Templates/MinutiaType$1.class
+SHA1-Digest: x3o4GY8WIk5qRFPKcwRPjpBRNmY=
+
+Name: com/neurotechnology/ScannerMan/ImageScanned.class
+SHA1-Digest: bfaU+SWfUNLGvdUukO8a31+yXn0=
+
+Name: com/neurotechnology/Eyes/NEExtractionStatus.class
+SHA1-Digest: irDHkdql31gwKKniSMt4HA4dRlo=
+
+Name: com/neurotechnology/Faces/Eyes.class
+SHA1-Digest: FDMP/5THckelpUraLZ2BCT+M1Tc=
+
+Name: com/neurotechnology/NMatcher/NMatchDetails.class
+SHA1-Digest: RBEAuavwpUTcQZX/iKZhDc4glho=
+
+Name: com/neurotechnology/Fingers/Position.class
+SHA1-Digest: raxGFLveJ0XnC+jaBj0vhKnUULw=
+
+Name: com/neurotechnology/Library/MainLibWindows.xml
+SHA1-Digest: q8ihJh8ezaCD0TCn9tYLY+wrVMc=
+
+Name: com/neurotechnology/NMatcher/NMatcher.class
+SHA1-Digest: 5w8Cl5Zgzfz/+zR7zR+AeZ4KeOs=
+
+Name: com/neurotechnology/CameraMan/CameraMan.class
+SHA1-Digest: qy3JtiPjvED0uprr91vt2yj7pp8=
+
+Name: com/neurotechnology/ScannerMan/FingerPlaced.class
+SHA1-Digest: uZMsXYPt+I7Qyx2iDHCQTqlWlw0=
+
+Name: com/neurotechnology/NFIQ/NFIQQuality$1.class
+SHA1-Digest: xySFrEqxP7bDV5aJmabjbuLEfuU=
+
+Name: com/neurotechnology/Library/ScannerFiles.class
+SHA1-Digest: q1fkippXJR+SA51+JlpCD/SG5Bs=
+
+Name: com/neurotechnology/NImages/ImageFileFilter.class
+SHA1-Digest: l/oifvQWvEYDiJzZL28FuYXKZV8=
+
+Name: com/neurotechnology/NMatcher/FaceMatchDetail.class
+SHA1-Digest: Uyj92JknThYPC8HBiWeo8SLmNh0=
+
+Name: com/neurotechnology/Templates/Core.class
+SHA1-Digest: I8+eUWCSwDmtrxdALKid+h1FAnI=
+
+Name: img/NeurotecIcon.png
+SHA1-Digest: jytJ54FP1BcQZHeTbDfBgxLB9Uw=
+
+Name: com/neurotechnology/Templates/Delta.class
+SHA1-Digest: uR3UVE60ZM9I+KfHtSAj6oRjP/0=
+
+Name: com/neurotechnology/NMatcher/MatcherMode$1.class
+SHA1-Digest: SjJAifrT6NJFiIRx9knuQjyKvbg=
+
+Name: com/neurotechnology/Faces/DetectionDetails.class
+SHA1-Digest: 8VDGVNrp33D0GfI3SSqHaZoQSGI=
+
+Name: com/neurotechnology/Templates/NFRecord.class
+SHA1-Digest: SlEn/miwj7xpUrvGlkeh/AE3sx8=
+
+Name: com/neurotechnology/NLicensing/LicensingDialog.class
+SHA1-Digest: ubpOfMDg++4uYUs8TyksFurulgw=
+
+Name: com/neurotechnology/NMatcher/NLMatchDetails.class
+SHA1-Digest: fsCNbcY5laSLyM7yW/f/lMKD4ZA=
+
+Name: com/neurotechnology/NMatcher/IrisMatchDetail.class
+SHA1-Digest: gMg0VXv46e9Bmu7nZBPx0uUEC1E=
+
+Name: com/neurotechnology/NLicensing/NLicensing.class
+SHA1-Digest: UaRGElY+qYMKDYnIxjsuSH68Hk8=
+
+Name: com/neurotechnology/NImages/NImageFormat.class
+SHA1-Digest: fOw2ighqQ7XcZNUrUMstA0CzGlk=
+
+Name: com/neurotechnology/Library/NativeManager.class
+SHA1-Digest: 43siEoDeWby4ERCeWUZgeegBjdQ=
+
+Name: com/neurotechnology/Faces/ExtractionStatus$1.class
+SHA1-Digest: 7CYRSXZqaDvNUy2QodR+n1/+G6U=
+
+Name: com/neurotechnology/Faces/Mode$1.class
+SHA1-Digest: 4lRBJnZVBiZm1Z6FV+05nJSbye4=
+
+Name: com/neurotechnology/Library/fpsmmLibWindows.xml
+SHA1-Digest: J+rt4RLO2qeWC+x+f5O3T/1wCdM=
+
+Name: com/neurotechnology/Communication/ClusterTaskInfo.class
+SHA1-Digest: sHMEyREMZ6rmbT/2eeIo+4n0IZY=
+
+Name: com/neurotechnology/Eyes/NEExtractionStatus$1.class
+SHA1-Digest: kYNP0pzuTYpEQzGiG6VdwaiHUI8=
+
+Name: com/neurotechnology/Templates/NBiometricType.class
+SHA1-Digest: 7nCjHwokQMdJZRh9a/Bx1WENjEU=
+
+Name: com/neurotechnology/Faces/Face.class
+SHA1-Digest: o6FqlL2RcGB35LME91xqPKgniY0=
+
+Name: com/neurotechnology/Communication/InsertDeleteStatus.class
+SHA1-Digest: zptKnuWY6136oDDJCmJbwlsNQEY=
+
